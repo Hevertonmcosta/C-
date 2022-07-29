@@ -5,7 +5,5 @@ They run quickly, without the need for convolution. But it has low performance a
 ## Functions
 
 create the constructor: FiltroRecursivo(int sample)
-
 update value in filter: update(double in)
-
 get filter result:      getResult()	
